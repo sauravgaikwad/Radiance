@@ -1,8 +1,12 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+Radiance is an IoT (Internet of Things) based, light automation system (on/off) which uses Image Processing (Computer Vision) as a technology for detecting presence/absence of human in the laboratory at a particular position.
 
-# Darknet #
-Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
-For more information see the [Darknet project website](http://pjreddie.com/darknet).
+Tools & Technologies used -
+OpenCV
+YOLO & HOG detector 
+Raspberrypi, Relay
+WebPy Framework
+Web Camera
+Input Dataset (Custom) 
 
-For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
+
